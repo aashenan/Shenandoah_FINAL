@@ -1,0 +1,77 @@
+body {
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	max-width: 900px;
+	
+}
+
+.article {
+	max-width: 700px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+h1 {
+	font-family: Georgia, serif;
+	font-size: 45px;
+	
+}
+
+h2 {
+	font-size: 18px;
+	color: darkgray;
+	font-family: Arial, sans-serif;
+}
+
+.ugh {
+	font-size: 25px ;
+	font-weight: bolder ;
+}
+
+.text {
+	font-size: 18px;
+	font-family: georgia, serif;
+	margin-top: 50px;
+}
+
+.caption {
+	font-size: 14px;
+	font-family: Arial, sans-serif;
+	color: darkgrey;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+}
+
+.image {
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+img {
+	width: 100%;
+	margin-top: 20px;
+}
+
+
+.viz {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+hr {
+	margin-bottom: 50px;
+	margin-top: 50px;
+	color: black;
+}
+
+
+
+
+
+
